@@ -1,2 +1,1 @@
-# DbiUebung-002
-Indizes &amp; Complexity-Classes
+# DbiUebung-002 -- Indizes & Complexity-Classes
